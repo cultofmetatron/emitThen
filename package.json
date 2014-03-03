@@ -1,0 +1,22 @@
+{
+  "name": "emitThen",
+  "version": "0.0.0",
+  "description": "promise resolving version of emit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cultofmetatron/emitThen.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Peter de Croos <cultofmetatron@aumlogic.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cultofmetatron/emitThen/issues"
+  },
+  "homepage": "https://github.com/cultofmetatron/emitThen"
+}
